@@ -1,0 +1,9 @@
+c:\users\rodolfo.luna\documents\visual studio 2013\Projects\Grafos\Grafos\bin\Debug\Grafos.exe.config
+c:\users\rodolfo.luna\documents\visual studio 2013\Projects\Grafos\Grafos\obj\Debug\Grafos.csprojResolveAssemblyReference.cache
+c:\users\rodolfo.luna\documents\visual studio 2013\Projects\Grafos\Grafos\bin\Debug\Grafos.exe
+c:\users\rodolfo.luna\documents\visual studio 2013\Projects\Grafos\Grafos\bin\Debug\Grafos.pdb
+c:\users\rodolfo.luna\documents\visual studio 2013\Projects\Grafos\Grafos\obj\Debug\Grafos.exe
+c:\users\rodolfo.luna\documents\visual studio 2013\Projects\Grafos\Grafos\obj\Debug\Grafos.pdb
+C:\Projetos\Rodolfo\Grafos\Grafos\bin\Debug\Grafos.exe.config
+C:\Projetos\Rodolfo\Grafos\Grafos\obj\Debug\Grafos.exe
+C:\Projetos\Rodolfo\Grafos\Grafos\obj\Debug\Grafos.pdb
